@@ -609,8 +609,7 @@
     "share/zoneinfo/tzdata.zi",
     "share/zoneinfo/zone.tab",
     "share/zoneinfo/zone1970.tab",
-    "share/zoneinfo/zonenow.tab",
-    ".nonadmin"
+    "share/zoneinfo/zonenow.tab"
   ],
   "fn": "tzdata-2024b-h04d1e81_0.conda",
   "license": "CC-PDDC OR BSD-3-Clause",

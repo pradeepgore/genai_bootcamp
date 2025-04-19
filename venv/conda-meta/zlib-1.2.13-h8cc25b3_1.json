@@ -18,8 +18,7 @@
     "Library/lib/zlib.lib",
     "Library/lib/zlibstatic.lib",
     "Library/share/man/man3/zlib.3",
-    "zlib.dll",
-    ".nonadmin"
+    "zlib.dll"
   ],
   "fn": "zlib-1.2.13-h8cc25b3_1.conda",
   "license": "Zlib",

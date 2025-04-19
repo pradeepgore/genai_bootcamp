@@ -1077,8 +1077,7 @@
     "Library/lib/tk8.6/unsupported.tcl",
     "Library/lib/tk8.6/xmfbox.tcl",
     "Library/lib/tk86t.lib",
-    "Library/lib/tkstub86.lib",
-    ".nonadmin"
+    "Library/lib/tkstub86.lib"
   ],
   "fn": "tk-8.6.14-h0416ee5_0.conda",
   "license": "TCL",

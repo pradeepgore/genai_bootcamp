@@ -19,8 +19,7 @@
     "Library/lib/libffi.lib",
     "Library/lib/pkgconfig/libffi.pc",
     "Library/share/libffi/libffiTargets-release.cmake",
-    "Library/share/libffi/libffiTargets.cmake",
-    ".nonadmin"
+    "Library/share/libffi/libffiTargets.cmake"
   ],
   "fn": "libffi-3.4.4-hd77b12b_1.conda",
   "license": "MIT",

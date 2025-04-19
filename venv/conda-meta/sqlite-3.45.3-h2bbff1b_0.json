@@ -13,8 +13,7 @@
     "Library/bin/sqlite3.exe",
     "Library/include/sqlite3.h",
     "Library/include/sqlite3ext.h",
-    "Library/lib/sqlite3.lib",
-    ".nonadmin"
+    "Library/lib/sqlite3.lib"
   ],
   "fn": "sqlite-3.45.3-h2bbff1b_0.conda",
   "license": "blessing",
